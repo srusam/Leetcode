@@ -1,5 +1,8 @@
 # LeetCode Solutions
 
+## 🔗 My LeetCode Profile
+https://leetcode.com/u/Srushti_Sambare/
+
 Welcome to my LeetCode solutions repository! This is where I document my journey of solving algorithm and data structure problems on LeetCode, primarily using **Java**.
 
 ## 📌 About
