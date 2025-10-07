@@ -4,11 +4,15 @@ class Solution {
         int n = nums.length;
         /*
         Normalize k
-        If we consider an array 1,2,3,4,5,6,7
-        For k=101, the 100th rotation will again give
-        1,2,3,4,5,6,7
-        Hence, to normalize k in order to reduce the 
-        unnecessary rotation, we normalize it.
+        Consider an array: 1, 2, 3, 4
+        If k = 6, rotating the array 4 times brings it back to 
+        its original form.
+        So, rotating it 6 times is equivalent to rotating it 
+        just 2 times.
+        To avoid unnecessary rotations, we normalize k using:
+        k = k % n;
+        This ensures we only perform the minimal number of 
+        effective rotations
         */
         k = k%n;
         /*
