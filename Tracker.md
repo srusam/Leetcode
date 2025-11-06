@@ -14,3 +14,4 @@
 | 136 | Single Number | 🟢🟢 | [View](https://leetcode.com/problems/single-number/description/) |
 | 1 | Two Sum | 🟢🟢🟢🟢 | [View](https://leetcode.com/problems/two-sum/description/) |
 | 75 | Sort Colours | 🟢 | [View](https://leetcode.com/problems/sort-colors/description/) |
+| 53 | Maximum Subarray |🟢| [View](https://leetcode.com/problems/maximum-subarray/description/) |
