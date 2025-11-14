@@ -17,3 +17,4 @@
 | 53 | Maximum Subarray |🟢| [View](https://leetcode.com/problems/maximum-subarray/description/) |
 | 121 | Best Time to Buy and Sell Stock | 🟢 | [View](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
 | 2149 | Rearrange Array Elements By Sign |🟢| [View](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)|
+|31| Next Permutation | 🟢| [View](https://leetcode.com/problems/next-permutation/description/)|
