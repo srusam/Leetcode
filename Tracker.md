@@ -9,7 +9,7 @@
 | 26 | Remove Duplicates from Sorted Array            | 🟢🟢🟢🟢        | [View](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |
 | 189 | Rotate Array | 🟢🟢🟢🟢 | [View](https://leetcode.com/problems/rotate-array/description/) |
 | 283 | Move Zeroes | 🟢🟢🟢🟢 | [View](https://leetcode.com/problems/move-zeroes/description/) |
-| 268 | Missing Number | 🟢🟢🟢 | [View](https://leetcode.com/problems/missing-number/description/) |
+| 268 | Missing Number | 🟢🟢🟢🟢 | [View](https://leetcode.com/problems/missing-number/description/) |
 | 485 | Max Consecutive Ones | 🟢🟢🟢 |[View](https://leetcode.com/problems/max-consecutive-ones/description/)|
 | 136 | Single Number | 🟢🟢🟢 | [View](https://leetcode.com/problems/single-number/description/) |
 | 1 | Two Sum | 🟢🟢🟢🟢 | [View](https://leetcode.com/problems/two-sum/description/) |
