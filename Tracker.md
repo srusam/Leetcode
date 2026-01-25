@@ -13,7 +13,7 @@
 | 485 | Max Consecutive Ones | 🟢🟢🟢🟢 |[View](https://leetcode.com/problems/max-consecutive-ones/description/)|
 | 136 | Single Number | 🟢🟢🟢🟢 | [View](https://leetcode.com/problems/single-number/description/) |
 | 1 | Two Sum | 🟢🟢🟢🟢🟢 | [View](https://leetcode.com/problems/two-sum/description/) |
-| 75 | Sort Colours | 🟢🟢🟢 | [View](https://leetcode.com/problems/sort-colors/description/) |
+| 75 | Sort Colours | 🟢🟢🟢🟢 | [View](https://leetcode.com/problems/sort-colors/description/) |
 | 53 | Maximum Subarray |🟢| [View](https://leetcode.com/problems/maximum-subarray/description/) |
 | 121 | Best Time to Buy and Sell Stock | 🟢 | [View](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
 | 2149 | Rearrange Array Elements By Sign |🟢| [View](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)|
