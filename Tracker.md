@@ -22,3 +22,4 @@
 |Q1|Concatenation of Array|🟢🟢|[View](https://leetcode.com/problems/concatenation-of-array/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i)|
 |73|Set Matrix Zeroes|🟢|[View](https://leetcode.com/problems/set-matrix-zeroes/description/)|
 |48|Rotate Image|🟢|[View](https://leetcode.com/problems/rotate-image/description/)|
+|54|Spiral Matrix|🟢|[View](https://leetcode.com/problems/spiral-matrix/description/)|
