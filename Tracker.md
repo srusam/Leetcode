@@ -24,3 +24,4 @@
 |48|Rotate Image|🟢|[View](https://leetcode.com/problems/rotate-image/description/)|
 |54|Spiral Matrix|🟢|[View](https://leetcode.com/problems/spiral-matrix/description/)|
 |560|Subarray Sum Equals K|🟢|[View](https://leetcode.com/problems/subarray-sum-equals-k/description/)|
+|118|Pascal's Triangle|🟢|[View](https://leetcode.com/problems/pascals-triangle/description/)|
