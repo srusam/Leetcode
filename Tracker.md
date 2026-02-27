@@ -23,3 +23,4 @@
 |73|Set Matrix Zeroes|🟢|[View](https://leetcode.com/problems/set-matrix-zeroes/description/)|
 |48|Rotate Image|🟢|[View](https://leetcode.com/problems/rotate-image/description/)|
 |54|Spiral Matrix|🟢|[View](https://leetcode.com/problems/spiral-matrix/description/)|
+|560|Subarray Sum Equals K|🟢|[View](https://leetcode.com/problems/subarray-sum-equals-k/description/)|
