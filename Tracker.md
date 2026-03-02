@@ -26,3 +26,4 @@
 |560|Subarray Sum Equals K|🟢|[View](https://leetcode.com/problems/subarray-sum-equals-k/description/)|
 |118|Pascal's Triangle|🟢🟢|[View](https://leetcode.com/problems/pascals-triangle/description/)|
 |169|Majority Element|🟢🟢|[View](https://leetcode.com/problems/majority-element/description/)|
+|229|Majority Element II|🟢|[View](https://leetcode.com/problems/majority-element-ii/description/)|
