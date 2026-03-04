@@ -28,3 +28,4 @@
 |169|Majority Element|🟢🟢|[View](https://leetcode.com/problems/majority-element/description/)|
 |229|Majority Element II|🟢|[View](https://leetcode.com/problems/majority-element-ii/description/)|
 |15|3Sum|🟢|[View](https://leetcode.com/problems/3sum/description/)|
+|18|4Sum|🟢|[View](https://leetcode.com/problems/4sum/description/)|
