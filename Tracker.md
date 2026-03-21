@@ -18,7 +18,7 @@
 | 121 | Best Time to Buy and Sell Stock | 🟢🟢🟢| [View](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
 | 2149 | Rearrange Array Elements By Sign |🟢🟢| [View](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)|
 |31| Next Permutation | 🟢🟢| [View](https://leetcode.com/problems/next-permutation/description/)|
-|128|Longest Consecutive Sequence|🟢🟢|[View](https://leetcode.com/problems/longest-consecutive-sequence/description/)|
+|128|Longest Consecutive Sequence|🟢🟢🟢|[View](https://leetcode.com/problems/longest-consecutive-sequence/description/)|
 |Q1|Concatenation of Array|🟢🟢|[View](https://leetcode.com/problems/concatenation-of-array/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i)|
 |73|Set Matrix Zeroes|🟢|[View](https://leetcode.com/problems/set-matrix-zeroes/description/)|
 |48|Rotate Image|🟢|[View](https://leetcode.com/problems/rotate-image/description/)|
