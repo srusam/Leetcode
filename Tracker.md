@@ -31,3 +31,4 @@
 |18|4Sum|🟢🟢|[View](https://leetcode.com/problems/4sum/description/)|
 |56|Merge Intervals|🟢|[View](https://leetcode.com/problems/merge-intervals/description/)|
 |493|Reverse Pairs|🟢|[View](https://leetcode.com/problems/reverse-pairs/description/)]
+|152|Maximum Product Subarray|🟢|[View](https://leetcode.com/problems/maximum-product-subarray/description/)|
