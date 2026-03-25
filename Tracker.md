@@ -33,3 +33,4 @@
 |493|Reverse Pairs|🟢|[View](https://leetcode.com/problems/reverse-pairs/description/)]
 |152|Maximum Product Subarray|🟢|[View](https://leetcode.com/problems/maximum-product-subarray/description/)|
 |704|Binary Search|🟢|[View](https://leetcode.com/problems/binary-search/description/)
+|35|Search Insert Position|🟢|[View](https://leetcode.com/problems/search-insert-position/)|
