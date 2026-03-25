@@ -32,3 +32,4 @@
 |56|Merge Intervals|🟢|[View](https://leetcode.com/problems/merge-intervals/description/)|
 |493|Reverse Pairs|🟢|[View](https://leetcode.com/problems/reverse-pairs/description/)]
 |152|Maximum Product Subarray|🟢|[View](https://leetcode.com/problems/maximum-product-subarray/description/)|
+|704|Binary Search|🟢|[View](https://leetcode.com/problems/binary-search/description/)
