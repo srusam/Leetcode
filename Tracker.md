@@ -38,3 +38,4 @@
 |33|Search in Rotated Sorted Array|🟢|[View](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|
 |81|Search in Rotated Sorted Array II|🟢|[View](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|
 |153|Find Minimum in Rotated Sorted Array|🟢|[View](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)]|
+|540|Single Element in a Sorted Array|🟢|[View](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)|
