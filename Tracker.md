@@ -40,3 +40,4 @@
 |153|Find Minimum in Rotated Sorted Array|🟢|[View](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)]|
 |540|Single Element in a Sorted Array|🟢|[View](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)|
 |162|Find Peak Element|🟢|[View](https://leetcode.com/problems/find-peak-element/description/)|
+|875|Koko Eating Bananas|🟢|[View](https://leetcode.com/problems/koko-eating-bananas/)|
