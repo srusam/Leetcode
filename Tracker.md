@@ -42,3 +42,4 @@
 |162|Find Peak Element|🟢|[View](https://leetcode.com/problems/find-peak-element/description/)|
 |875|Koko Eating Bananas|🟢|[View](https://leetcode.com/problems/koko-eating-bananas/)|
 |1482|Minimum Number of Days to Make m Bouquets|🟢|[View](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)|
+|1283|Find the Smallest Divisor Given a Threshold|🟢|[View](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)|
