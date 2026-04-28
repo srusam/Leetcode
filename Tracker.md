@@ -43,3 +43,4 @@
 |875|Koko Eating Bananas|🟢|[View](https://leetcode.com/problems/koko-eating-bananas/)|
 |1482|Minimum Number of Days to Make m Bouquets|🟢|[View](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)|
 |1283|Find the Smallest Divisor Given a Threshold|🟢|[View](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)|
+|1011|Capacity To Ship Packages Within D Days|🟢|[View](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)|
