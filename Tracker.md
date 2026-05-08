@@ -46,3 +46,4 @@
 |1011|Capacity To Ship Packages Within D Days|🟢|[View](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)|
 |1539|Kth Missing Positive Number|🟢|[View](https://leetcode.com/problems/kth-missing-positive-number/description/)|
 |410|Split Array Largest Sum|🟢|[View](https://leetcode.com/problems/split-array-largest-sum/description/)|
+|TUF|Find row with max 1's|🟢|[View](https://takeuforward.org/plus/dsa/problems/find-row-with-maximum-1's?source=strivers-a2z-dsa-track)|
