@@ -52,3 +52,7 @@ class Solution {
         return ans;
     }
 }
+
+//Time complexity: O(n*logm)
+//Space complexity: O(1)
+//base is 2
