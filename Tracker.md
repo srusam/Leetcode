@@ -49,3 +49,4 @@
 |TUF|Find row with max 1's|🟢|[View](https://takeuforward.org/plus/dsa/problems/find-row-with-maximum-1's?source=strivers-a2z-dsa-track)|
 |74|Search a 2D Matrix|🟢|[View](https://leetcode.com/problems/search-a-2d-matrix/description/)|
 |240|Search a 2D Matrix II|🟢|[View](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|
+|1901|Find a Peak Element II|🟢|[View](https://leetcode.com/problems/find-a-peak-element-ii/description/)|
