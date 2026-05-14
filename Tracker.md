@@ -50,3 +50,4 @@
 |74|Search a 2D Matrix|🟢|[View](https://leetcode.com/problems/search-a-2d-matrix/description/)|
 |240|Search a 2D Matrix II|🟢|[View](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|
 |1901|Find a Peak Element II|🟢|[View](https://leetcode.com/problems/find-a-peak-element-ii/description/)|
+|1021|Remove Outermost Parentheses|🟢|[View](https://leetcode.com/problems/remove-outermost-parentheses/description/)|
