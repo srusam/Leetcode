@@ -31,7 +31,7 @@
 |18|4Sum|🟢🟢🟢|[View](https://leetcode.com/problems/4sum/description/)|
 |56|Merge Intervals|🟢🟢|[View](https://leetcode.com/problems/merge-intervals/description/)|
 |493|Reverse Pairs|🟢🟡|[View](https://leetcode.com/problems/reverse-pairs/description/)|
-|152|Maximum Product Subarray|🟢🟢|[View](https://leetcode.com/problems/maximum-product-subarray/description/)|
+|152|Maximum Product Subarray|🟢🟢🟢|[View](https://leetcode.com/problems/maximum-product-subarray/description/)|
 |704|Binary Search|🟢|[View](https://leetcode.com/problems/binary-search/description/)
 |35|Search Insert Position|🟢|[View](https://leetcode.com/problems/search-insert-position/)|
 |34|Find First and Last Position of Element in Sorted Array|🟢|[View](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|
