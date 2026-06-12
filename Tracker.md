@@ -36,7 +36,7 @@
 |35|Search Insert Position|🟢🟢|[View](https://leetcode.com/problems/search-insert-position/)|
 |34|Find First and Last Position of Element in Sorted Array|🟢🟢|[View](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|
 |33|Search in Rotated Sorted Array|🟢🟢|[View](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|
-|81|Search in Rotated Sorted Array II|🟢|[View](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|
+|81|Search in Rotated Sorted Array II|🟢🟢|[View](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|
 |153|Find Minimum in Rotated Sorted Array|🟢|[View](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|
 |540|Single Element in a Sorted Array|🟢|[View](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)|
 |162|Find Peak Element|🟢|[View](https://leetcode.com/problems/find-peak-element/description/)|
