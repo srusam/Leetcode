@@ -56,3 +56,4 @@
 |14|Longest Common Prefix|🟢|[View](https://leetcode.com/problems/longest-common-prefix/description/)|
 |205|Isomorphic Strings|🟢|[View](https://leetcode.com/problems/isomorphic-strings/description/)|
 |796|Rotate String|🟢|[View](https://leetcode.com/problems/rotate-string/description/)|
+|242|Valid Anagram|🟢|[View](https://leetcode.com/problems/valid-anagram/description/)|
