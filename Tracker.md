@@ -59,3 +59,4 @@
 |242|Valid Anagram|🟢|[View](https://leetcode.com/problems/valid-anagram/description/)|
 |451|Sort Characters By Frequency|🟢|[View](https://leetcode.com/problems/sort-characters-by-frequency/description/)|
 |1614|Maximum Nesting Depth of the Parentheses|🟢|[View](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)|
+|13|Roman to Integer|🟢|[View](https://leetcode.com/problems/roman-to-integer/description/)|
