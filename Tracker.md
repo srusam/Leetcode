@@ -60,3 +60,4 @@
 |451|Sort Characters By Frequency|🟢|[View](https://leetcode.com/problems/sort-characters-by-frequency/description/)|
 |1614|Maximum Nesting Depth of the Parentheses|🟢|[View](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)|
 |13|Roman to Integer|🟢|[View](https://leetcode.com/problems/roman-to-integer/description/)|
+|8|String to Integer (atoi)|🟢|[View](https://leetcode.com/problems/string-to-integer-atoi/description/)|
