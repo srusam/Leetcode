@@ -61,3 +61,4 @@
 |1614|Maximum Nesting Depth of the Parentheses|🟢|[View](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)|
 |13|Roman to Integer|🟢|[View](https://leetcode.com/problems/roman-to-integer/description/)|
 |8|String to Integer (atoi)|🟢|[View](https://leetcode.com/problems/string-to-integer-atoi/description/)|
+|5|Longest Palindromic Substring|🟢|[View](https://leetcode.com/problems/longest-palindromic-substring/description/)|
