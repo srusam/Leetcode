@@ -62,3 +62,4 @@
 |13|Roman to Integer|🟢|[View](https://leetcode.com/problems/roman-to-integer/description/)|
 |8|String to Integer (atoi)|🟢|[View](https://leetcode.com/problems/string-to-integer-atoi/description/)|
 |5|Longest Palindromic Substring|🟢|[View](https://leetcode.com/problems/longest-palindromic-substring/description/)|
+|1781|Sum of Beauty of All Substrings|🟢|[View](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/)|
