@@ -69,3 +69,4 @@
 |141|Linked List Cycle|🟢|[View](https://leetcode.com/problems/linked-list-cycle/)|
 |142|Linked List Cycle II|🟢|[View](https://leetcode.com/problems/linked-list-cycle-ii/description/)|
 |234|Palindrome Linked List|🟢|[View](https://leetcode.com/problems/palindrome-linked-list/description/)|
+|328|Odd Even Linked List|🟢|[View](https://leetcode.com/problems/odd-even-linked-list/description/)|
