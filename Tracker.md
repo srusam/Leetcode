@@ -72,3 +72,4 @@
 |328|Odd Even Linked List|🟢|[View](https://leetcode.com/problems/odd-even-linked-list/description/)|
 |19|Remove Nth Node From End of List|🟢|[View](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|
 |2095|Delete the Middle Node of a Linked List|🟢|[View](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)|
+|148|Sort List|🟢|[View](https://leetcode.com/problems/sort-list/description/)|
