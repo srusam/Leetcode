@@ -73,4 +73,4 @@
 |19|Remove Nth Node From End of List|🟢|[View](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|
 |2095|Delete the Middle Node of a Linked List|🟢|[View](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)|
 |148|Sort List|🟢|[View](https://leetcode.com/problems/sort-list/description/)|
-|-|Delete the head of DLL|🟢|[View](nothing to view here, it's just from my notes)|
+|-|Delete the head of DLL|🟢|-|
